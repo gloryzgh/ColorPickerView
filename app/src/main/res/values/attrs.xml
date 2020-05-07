@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ColorPickerView">
+        <attr name="cpv_margin" format="dimension"/>
+        <attr name="cpv_stroke_with" format="dimension"/>
+        <attr name="cpv_clickable" format="boolean"/>
+    </declare-styleable>
+</resources>
