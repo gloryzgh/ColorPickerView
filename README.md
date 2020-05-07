@@ -6,5 +6,5 @@
 效果如图
 
 
-![image](https://github.com/gloryzgh/Pullview/blob/master/b.gif)
+![image](https://github.com/gloryzgh/ColorPickerView/blob/master/SVID_20200507_160029_1.2020-05-07%2016_16_04.gif)
 
